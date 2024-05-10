@@ -6,6 +6,7 @@
     * [README 目录（持续更新中） 各种错误处理、爬虫实战及模板、百度智能云人脸识别、计算机视觉深度学习CNN图像识别与分类、PaddlePaddle自然语言处理知识图谱、GitHub、运维...](https://blog.csdn.net/muaamua/article/details/134426428?spm=1001.2014.3001.5502)
     * WeChat：1297767084
     * GitHub：[https://github.com/cxlhyx](https://github.com/cxlhyx)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/d3b478b2dc91466b87ed15613c754f64.jpeg#pic_center)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
